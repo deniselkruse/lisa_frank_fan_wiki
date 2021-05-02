@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/deniselkruse/lisa_frank_fan_wiki/static/css/main.39b2f4e2.chunk.css",
+    "main.js": "/deniselkruse/lisa_frank_fan_wiki/static/js/main.1979c1f0.chunk.js",
+    "main.js.map": "/deniselkruse/lisa_frank_fan_wiki/static/js/main.1979c1f0.chunk.js.map",
+    "runtime-main.js": "/deniselkruse/lisa_frank_fan_wiki/static/js/runtime-main.bcb0be2d.js",
+    "runtime-main.js.map": "/deniselkruse/lisa_frank_fan_wiki/static/js/runtime-main.bcb0be2d.js.map",
+    "static/css/2.184f8ef6.chunk.css": "/deniselkruse/lisa_frank_fan_wiki/static/css/2.184f8ef6.chunk.css",
+    "static/js/2.911f6690.chunk.js": "/deniselkruse/lisa_frank_fan_wiki/static/js/2.911f6690.chunk.js",
+    "static/js/2.911f6690.chunk.js.map": "/deniselkruse/lisa_frank_fan_wiki/static/js/2.911f6690.chunk.js.map",
+    "index.html": "/deniselkruse/lisa_frank_fan_wiki/index.html",
+    "static/css/2.184f8ef6.chunk.css.map": "/deniselkruse/lisa_frank_fan_wiki/static/css/2.184f8ef6.chunk.css.map",
+    "static/css/main.39b2f4e2.chunk.css.map": "/deniselkruse/lisa_frank_fan_wiki/static/css/main.39b2f4e2.chunk.css.map",
+    "static/js/2.911f6690.chunk.js.LICENSE.txt": "/deniselkruse/lisa_frank_fan_wiki/static/js/2.911f6690.chunk.js.LICENSE.txt",
+    "static/media/ballerina_bunnies.468d137f.jpeg": "/deniselkruse/lisa_frank_fan_wiki/static/media/ballerina_bunnies.468d137f.jpeg",
+    "static/media/casey_and_caymus.d5a2ea5b.jpeg": "/deniselkruse/lisa_frank_fan_wiki/static/media/casey_and_caymus.d5a2ea5b.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bcb0be2d.js",
+    "static/css/2.184f8ef6.chunk.css",
+    "static/js/2.911f6690.chunk.js",
+    "static/css/main.39b2f4e2.chunk.css",
+    "static/js/main.1979c1f0.chunk.js"
+  ]
+}
