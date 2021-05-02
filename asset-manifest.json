@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/lisa_frank_fan_wiki/static/css/main.50e93015.chunk.css",
-    "main.js": "/lisa_frank_fan_wiki/static/js/main.02ad7cd6.chunk.js",
-    "main.js.map": "/lisa_frank_fan_wiki/static/js/main.02ad7cd6.chunk.js.map",
+    "main.js": "/lisa_frank_fan_wiki/static/js/main.42a7c27c.chunk.js",
+    "main.js.map": "/lisa_frank_fan_wiki/static/js/main.42a7c27c.chunk.js.map",
     "runtime-main.js": "/lisa_frank_fan_wiki/static/js/runtime-main.469dba0b.js",
     "runtime-main.js.map": "/lisa_frank_fan_wiki/static/js/runtime-main.469dba0b.js.map",
     "static/css/2.184f8ef6.chunk.css": "/lisa_frank_fan_wiki/static/css/2.184f8ef6.chunk.css",
@@ -43,6 +43,6 @@
     "static/css/2.184f8ef6.chunk.css",
     "static/js/2.1c8adb3b.chunk.js",
     "static/css/main.50e93015.chunk.css",
-    "static/js/main.02ad7cd6.chunk.js"
+    "static/js/main.42a7c27c.chunk.js"
   ]
 }
